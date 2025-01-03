@@ -2,7 +2,7 @@ import hashlib
 # pip install hashlib
 
 # Example input string
-input_data = "1105800dc"
+input_data = "This is awesome!"
 
 # Convert input data to bytes
 input_bytes = input_data.encode('utf-8')
